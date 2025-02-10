@@ -12,7 +12,7 @@
     <a href="app.lofi.co">    
      <img height="150rem" width="300rem"  alt="PetrusMr's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/PetrusMr?cardType=github&theme=synthwave" />  </a>
 
-![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=PetrusMr&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PetrusMr&theme=tokyonight)
     
    
 </div>
