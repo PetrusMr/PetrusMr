@@ -1,4 +1,4 @@
-#                                  <p  align="center"> <span><<</span>ヾ(≧ ▽ ≦)ゝ<br> (❁´◡`❁) PetrusM  ![](https://komarev.com/ghpvc/?username=ZBellzz-github-ZBellzz&color=blueviolet) <br>(✿◠‿◠)<span>>></span><br> </p>
+#                                  <p  align="center"> <span><<</span>\(@^0^@)/ PetrusM (●'◡'●)  ![](https://komarev.com/ghpvc/?username=PetrusMr-github-ZBellzz&color=blueviolet) <br><span>>></span><br> </p>
 
 
 
