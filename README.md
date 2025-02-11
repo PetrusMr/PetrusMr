@@ -1,4 +1,4 @@
-#                                  <p  align="center"> <span><<</span>\(@^0^@)/ PetrusM (●'◡'●)  ![](https://komarev.com/ghpvc/?username=PetrusMr-github-ZBellzz&color=blueviolet) <br><span>>></span><br> </p>
+#                                  <p  align="center"> <span></span>\ (@^0^@)/ PetrusM (●'◡'●)  ![](https://komarev.com/ghpvc/?username=PetrusMr-github-ZBellzz&color=blueviolet) <br><span></span><br> </p>
 
 
 
