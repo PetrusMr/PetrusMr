@@ -8,11 +8,13 @@
   
   
   
-  <a href="app.lofi.co">
-    <a href="app.lofi.co">    
-     <img height="150rem" width="300rem"  alt="PetrusMr's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/PetrusMr?cardType=github&theme=synthwave" />  </a>
+  <a/> [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/PetrusMr?cardType=github&theme=omni&preferLogin=false)](https://git.io/awesome-stats-card)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PetrusMr&theme=tokyonight)
+       
+  </a>
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PetrusMr&theme=dark&bg_color=2f1539&text_color=f30cde&title_color=f30cde&icon_color=000000&fg_color=000000)
     
    
 </div>
