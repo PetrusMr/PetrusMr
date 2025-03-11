@@ -12,7 +12,7 @@
   <a/> [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/PetrusMr?cardType=github&theme=omni&preferLogin=false)](https://git.io/awesome-stats-card)
 
        
-  </a>
+  </a >
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PetrusMr&theme=dark&bg_color=2f1539&text_color=f30cde&title_color=f30cde&icon_color=000000&fg_color=000000)
@@ -34,7 +34,7 @@
 
    
    <a ></a>
-   <img align="center" alt="Bell-photo" height="150" style= "border-radius:80px;" src="para readme/miyamura.gif">
+   <img align="center" alt="Bell-photo" height="320" width='540' style= "border-radius:80px;" src="para readme/miyamura.gif">
 
   
     
