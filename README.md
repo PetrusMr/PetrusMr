@@ -33,7 +33,7 @@
 
    
    <a ></a>
-   <img align="center" alt="minhoro-photo" height="150" style= "border-radius:80px;" src="para readme/miyamura.gif">
+   <img align="center" alt="Bell-photo" height="150" style= "border-radius:80px;" src="para readme/miyamura.gif">
 
   
     
