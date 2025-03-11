@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://unimelbfilmsoc.org/wp-content/uploads/2023/04/suzumes-animation.webp?w=911" width='1280' height='620' alt="">
+<img src="https://unimelbfilmsoc.org/wp-content/uploads/2023/04/suzumes-animation.webp?w=911" width='1280' height='720' alt="">
 
  </div>                                                                                                               
 <div align="center">
